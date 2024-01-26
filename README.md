@@ -94,7 +94,7 @@ Steps to Apply:
 * After ADS reviews your application and it is determined to be complete, you will be considered an eligible Note Taker. If selected by an ADS student who is seeking a Note Taker, you will receive an email from ADS that you have been chosen and should immediately begin uploading notes. The ADS student will see your name and email address. You will not have their information unless they choose to contact you.
 * After receiving the email confirming you are chosen as a Note Taker, please complete the paperwork listed at https://go.umd.edu/adsNoteTakers to receive your compensation following the conclusion of the semester.
 
-#### Lesson 1 - Thursday 1/25/24
+### Lesson 1 - Thursday 1/25/24
 
 * Reading: Chapter 4 of PHR (pp. 77-78).
 * Definition of the infancy defense (common law; late 18th century)
