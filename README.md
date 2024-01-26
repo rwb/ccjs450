@@ -104,5 +104,4 @@ Steps to Apply:
 * Overview of the *parens patriae* doctrine.
 * *Ex parte* Crouse (1839; [link](https://github.com/rwb/ccjs450/blob/main/gfiles/ex-parte-crouse.pdf))
 * People of Illinois v. Turner (1870; [link](https://github.com/rwb/ccjs450/blob/main/gfiles/people-v-turner.pdf))
-* 
 
