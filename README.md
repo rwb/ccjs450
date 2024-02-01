@@ -109,3 +109,12 @@ Steps to Apply:
 
 * Reading: Chapter 4 of PHR (pp. 78-80).
 * Lecture slides ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson2.pdf)).
+
+### Lesson 3 - Thursday 2/1/24
+
+* Reading: Chapter 4 of PHR (pp. 83-86).
+* Lecture slides ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson3.pdf)).
+* Link to *Haley v. Ohio* (1948; [website](https://scholar.google.com/scholar_case?case=6528131462209824237&q=haley+v+ohio&hl=en&as_sdt=20000006)).
+* Link to *South Carolina v. Stinne* (1944; [ruling](https://scholar.google.com/scholar_case?case=6528131462209824237&q=haley+v+ohio&hl=en&as_sdt=20000006))
+* Voices of the Civil Rights Movement video about the Stinney case ([video link](https://www.youtube.com/watch?v=2mT1sQn5JOM)).
+* Link to Amicus Brief of Social Scientists in *Miller v. Alabama* (2012; [website](https://eji.org/wp-content/uploads/2019/11/miller-amicus-jeffrey-fagan.pdf)).
