@@ -123,7 +123,7 @@ Steps to Apply:
 ### Lesson 4 - Tuesday 2/6/24
 
 * Reading: Chapter 4 of PHR (Today's focus is on *Kent v. U.S.* (1966), discussed on p. 83).
-* Link to *Kent v. U.S.* (1966) (Google Scholar [link](https://scholar.google.com/scholar_case?case=5405024647930835755&q=kent+v+united+states&hl=en&as_sdt=20000006) and pdf [link]((https://github.com/rwb/ccjs450/blob/main/gfiles/kent-v-us.pdf)).
+* Link to *Kent v. U.S.* (1966) (Google Scholar [link](https://scholar.google.com/scholar_case?case=5405024647930835755&q=kent+v+united+states&hl=en&as_sdt=20000006) and pdf [link](https://github.com/rwb/ccjs450/blob/main/gfiles/kent-v-us.pdf)).
 * Lecture slides ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson4.pdf)).
 * Reminder 1: First exam is coming up on Thursday 2/22
 * Reminder 2: Proposed research questions are due on ELMS by end of the day on Friday 2/16.
