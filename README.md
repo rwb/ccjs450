@@ -119,3 +119,10 @@ Steps to Apply:
 * Link to *South Carolina v. Stinney* (1944; [ruling](https://s3.amazonaws.com/s3.documentcloud.org/documents/1382796/stinney-ruling.pdf))
 * Voices of the Civil Rights Movement video about the Stinney case ([video link](https://www.youtube.com/watch?v=2mT1sQn5JOM)).
 * Link to Amicus Brief of Social Scientists in *Miller v. Alabama* (2012; [website](https://eji.org/wp-content/uploads/2019/11/miller-amicus-jeffrey-fagan.pdf)).
+
+### Lesson 4 - Tuesday 2/6/24
+
+* Reading: Chapter 4 of PHR (Today's focus is on *Kent v. U.S.* (1966)).
+* Lecture slides ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson4.pdf)).
+* Reminder 1: First exam is coming up on Thursday 2/22
+* Reminder 2: Proposed research questions are due on ELMS by end of the day on Friday 2/16.
