@@ -127,41 +127,4 @@ Steps to Apply:
 * Lecture slides ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson4.pdf)).
 * Reminder 1: First exam is coming up on Thursday 2/22
 * Reminder 2: Proposed research questions are due on ELMS by end of the day on Friday 2/16.
-* A few example exam questions:
-  
-  - Historically, the legal rule governing criminal charges for children under 7 has been:
-    
-    a. a presumption that they are not responsible for their actions
-    b. a case-by-case assessment of their legal responsibility
-    c. a constitutional analysis of parens patriae
-    d. exemption due to habeas corpus
-    
-  - Which of the following concepts have served as important justifications for a separate system of juvenile justice? (circle all that apply)
-    
-    a. concerns about equitable treatment under the law
-    b. concerns about the severity of juvenile offending
-    c. concerns about the competence and culpability of juveniles
-    d. optimism about the amenability of children to rehabilitative interventions
-    e. optimism about the effects of a juvenile system on reducing workload for the adult system
-
-  - The *Ex Parte Crouse* (1838) and *People of Illinois v. Turner* (1870) cases both involved:
-    
-    a. a juvenile who had committed a serious violent offense
-    b. a juvenile who had not been charged with a crime
-    c. the removal of children from homes where they were thought to have been victims of abuse or neglect
-    d. violations of the 14th Amendment's due process clause
-    e. violation of the 8th Amendment's cruel and unusual punishment clause.
-
-  - The modern juvenile court, first founded in Chicago in 1899, was noteworthy for being the first specialized court.
-
-    a. true
-    b. false
-
-  - The U.S. Supreme Court was actively engaged in judicial oversight of juvenile justice in the 1800's.
-
-    a. true
-    b. false
-    
-  - What is the U.S. Supreme Court's position on the legal concept of *parens patriae*?
-  - Describe the contradiction in the juvenile confinement decisions made by the Pennsylvania and Illinois supreme courts in the 1800's.
-  - In class, we examined 2 age-arrest curves: an overall arrest curve and a virgin arrest curve. Taken together what do these 2 curves tell us about juvenile recidivism?
+* A few example exam questions ([link]((https://github.com/rwb/ccjs450/blob/main/gfiles/practice-questions.pdf))
