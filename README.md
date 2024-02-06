@@ -127,4 +127,4 @@ Steps to Apply:
 * Lecture slides ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson4.pdf)).
 * Reminder 1: First exam is coming up on Thursday 2/22
 * Reminder 2: Proposed research questions are due on ELMS by end of the day on Friday 2/16.
-* A few example exam questions ([link]((https://github.com/rwb/ccjs450/blob/main/gfiles/practice-questions.pdf))
+* A few example exam questions ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/practice-questions.pdf))
