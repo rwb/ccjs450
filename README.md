@@ -128,3 +128,9 @@ Steps to Apply:
 * Reminder 1: First exam is coming up on Thursday 2/22
 * Reminder 2: Proposed research questions are due on ELMS by end of the day on Friday 2/16.
 * A few example exam questions ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/practice-questions.pdf))
+
+### Lesson 5 - Thursday 2/8/24
+
+* Reading: Chapter 4 of PHR (Today's focus is on *Kent v. U.S.* (1966) and possibly *In re Gault* (1967), both on page 83).
+* Link to *In re Gault* (1967; [pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep387/usrep387001/usrep387001.pdf) and [Google Scholar](https://scholar.google.com/scholar_case?case=10236837539750251931&q=in+re+gault&hl=en&as_sdt=20000006)).
+* Lecture slides ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson5.pdf)).
