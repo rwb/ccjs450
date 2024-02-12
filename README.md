@@ -134,3 +134,9 @@ Steps to Apply:
 * Reading: Chapter 4 of PHR (Today's focus is on *Kent v. U.S.* (1966) and possibly *In re Gault* (1967), both on page 83).
 * Link to *In re Gault* (1967; [pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep387/usrep387001/usrep387001.pdf) and [Google Scholar](https://scholar.google.com/scholar_case?case=10236837539750251931&q=in+re+gault&hl=en&as_sdt=20000006)).
 * Lecture slides ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson5.pdf)).
+
+### Lesson 6 - Tuesday 2/13/24
+
+* Reading: Chapter 4 of PHR (Today's focus is on *In re Gault* (1967), *In re Winship* (1970), *McKeiver v. PA* (1971), and *Breed v. Jones* (1975)  both on page 83-85).
+* Link to *In re Gault* (1967; [pdf](https://tile.loc.gov/storage-services/service/ll/usrep/usrep387/usrep387001/usrep387001.pdf) and [Google Scholar](https://scholar.google.com/scholar_case?case=10236837539750251931&q=in+re+gault&hl=en&as_sdt=20000006)).
+* Lecture slides ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson6.pdf)).
