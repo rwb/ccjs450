@@ -144,7 +144,7 @@ Steps to Apply:
 ### Lesson 7 - Thursday 2/15/24
 
 * Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson7.pdf)).
-* Link to * Roper v. Simmons (2005; [pdf](https://github.com/rwb/ccjs450/blob/main/gfiles/rvs.pdf))
+* Link to *Roper v. Simmons* (2005; [pdf](https://github.com/rwb/ccjs450/blob/main/gfiles/rvs.pdf))
 * Reminder: first exam is 1 week from today.
 * We will have time for review on Tuesday 2/20/24.
 * Topics are due on ELMS by 11:59pm tomorrow (Friday 2/16/24).
