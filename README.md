@@ -165,3 +165,15 @@ Steps to Apply:
 * Link to *Roper v. Simmons* (2005; [pdf](https://github.com/rwb/ccjs450/blob/main/gfiles/rvs.pdf))
 * Reminder: first exam is Thursday 2/22/24.
 * A few practice questions ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/practice2.pdf)).
+* Answer key for practice questions:
+
+1. a.
+2. c.
+3. b.
+4. b.
+5. c.
+6. d.
+7. a.
+8. There is a belief that juveniles are less competent/culpable than adults and that they are more amenable to treatment and rehabilitation than adults.
+9. It is fair to say the Court still recognizes the founding ideas of the juvenile court. In *Roper v. Simmons* (2005), the Court held that juveniles are less competent and culpable than adults and that they are more amenable to rehabilitation.
+10. The juvenile court judge should have disclosed the results of his "full investigation" so the justification for the waiver would have been transparent.
