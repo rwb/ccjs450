@@ -128,6 +128,16 @@ Steps to Apply:
 * Reminder 1: First exam is coming up on Thursday 2/22
 * Reminder 2: Proposed research questions are due on ELMS by end of the day on Friday 2/16.
 * A few example exam questions ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/practice-questions.pdf))
+* Answer key for practice questions:
+
+1. a. 
+2. c. and d.
+3. b.
+4. a.
+5. b.
+6. The U.S. Supreme Court has upheld the concept of parens patriae.
+7. The Pennsylvania Supreme Court was willing to defer to the House of Refuge; The Illinois Supreme Court was unwilling to do so.
+8. Most juvenile arrests are recidivist arrests, not first-time arrests.
 
 ### Lesson 5 - Thursday 2/8/24
 
