@@ -154,3 +154,4 @@ Steps to Apply:
 * Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson8.pdf)).
 * Link to *Roper v. Simmons* (2005; [pdf](https://github.com/rwb/ccjs450/blob/main/gfiles/rvs.pdf))
 * Reminder: first exam is Thursday 2/22/24.
+* A few practice questions ([link](https://github.com/rwb/ccjs450/blob/main/gfiles/practice2.pdf)).
