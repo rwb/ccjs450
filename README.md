@@ -176,4 +176,4 @@ Steps to Apply:
 7. a.
 8. There is a belief that juveniles are less competent/culpable than adults and that they are more amenable to treatment and rehabilitation than adults.
 9. It is fair to say the Court still recognizes the founding ideas of the juvenile court. In *Roper v. Simmons* (2005), the Court held that juveniles are less competent and culpable than adults and that they are more amenable to rehabilitation.
-10. The juvenile court judge should have disclosed the results of his "full investigation" so the justification for the waiver would have been transparent.
+10. The juvenile court judge should have disclosed the results of his "full investigation" so the justification for the waiver would have been transparent. Also, the judge should have ruled on the motion for access to the social services file.
