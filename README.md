@@ -56,7 +56,7 @@ Part 1: Historical, Legal, and Foundational Issues
 
 Part 2: System Data and Delinquency Measurement 
 
-* Week 5 - 2/27-2/29: Survey data on juvenile offending; (PHS, chapter 4; Elliott, 1994; Cohen, 1986).
+* Week 5 - 2/27-2/29: Survey data on juvenile offending; (PHS, chapter 3; Elliott, 1994; Cohen, 1986).
 * Project description due on ELMS by end of day on Friday 3/1.
 * Week 6 - 3/5-3/7: Police (PHS, chapter 5; Christensen, 1965; Brame et al. 2012). 
 * Week 7 - 3/12-3/14: Courts (PHS, chapter 6; Manski and Nagin, 1998).
@@ -177,3 +177,17 @@ Steps to Apply:
 8. There is a belief that juveniles are less competent/culpable than adults and that they are more amenable to treatment and rehabilitation than adults.
 9. It is fair to say the Court still recognizes the founding ideas of the juvenile court. In *Roper v. Simmons* (2005), the Court held that juveniles are less competent and culpable than adults and that they are more amenable to rehabilitation.
 10. The juvenile court judge should have disclosed the results of his "full investigation" so the justification for the waiver would have been transparent. Also, the judge should have ruled on the motion for access to the social services file.
+
+### Exam 1 - Thursday 2/22/24
+
+* Announcement: I am extending the due date for your project descriptions. It was originally due on Friday 3/1 but will now be due by end of the day (11:59pm) on Friday 3/8.
+* Assigned reading for next week: PHS, Chapter 3; Elliott (1994; [link](https://heinonline.org/HOL/Page?handle=hein.journals/crim32&div=8&g_sent=1&casa_token=iqrFf7yotDcAAAAA:xjH1d_VBmp7t2Eme7CprZ4lWBpFElxSJ9O9VzjaFNXHimGoAPHNM1leWzgCmDS3GLVEz0_Tf&collection=journals)).
+* We will also be discussing this work by Cohen (1986):
+
+<p align="center">
+<img src="/gfiles/fig1.png" width="600px">
+</p>
+
+<p align="center">
+<img src="/gfiles/fig2.png" width="600px">
+</p>
