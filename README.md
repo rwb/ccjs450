@@ -20,7 +20,7 @@
 * You will identify a research question (and a preliminary theoretical justification for it) that is answerable with existing and publicly available data. Your justification should include appropriate citations to extant literature. Think about a juvenile delinquency or juvenile justice question that interests you; feel free to discuss this with me before you commit to a topic.
 * You will *not* be collecting any new data for this project.
 * You should submit your proposed question to me for approval by end of the day on ELMS on Friday February 16th.
-* You should submit a description of the publicly available data you will use accompanied by a website or link so I can review it; this is due on ELMS by end of the day on Friday March 1st.
+* You should submit a description of the publicly available data you will use accompanied by a website or link so I can review it; this is due on ELMS by end of the day on Friday March ~~1st~~ 8th.
 * You should submit a rough draft of your project including a fully developed theoretical justification for your question and a description of your data, methods, and findings by end of the day on 3/31.
 * Final drafts are due by end of the day on Friday 4/26; 3 point penalty for each hour the project is late.
 * *Note*: only the final papers are graded. These intermediate reviews will be for giving you comments and guidance to help you develop a high quality project. You should note that late submissions will not be marked -- with the exception of the final graded paper which will be marked down 3 points for every hour the submission is late.
