@@ -57,7 +57,7 @@ Part 1: Historical, Legal, and Foundational Issues
 Part 2: System Data and Delinquency Measurement 
 
 * Week 5 - 2/27-2/29: Survey data on juvenile offending; (PHS, chapter 3; Elliott, 1994; Cohen, 1986).
-* Project description due on ELMS by end of day on Friday 3/1.
+* Project description due on ELMS by end of day on Friday ~~3/1~~ 3/8.
 * Week 6 - 3/5-3/7: Police (PHS, chapter 5; Christensen, 1965; Brame et al. 2012). 
 * Week 7 - 3/12-3/14: Courts (PHS, chapter 6; Manski and Nagin, 1998).
 * Spring Break: 3/19-3/22
