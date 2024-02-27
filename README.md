@@ -183,12 +183,10 @@ Steps to Apply:
 * Please be advised that it generally takes me about 1 week to grade your exams.
 * Announcement: I am extending the due date for your project descriptions. It was originally due on Friday 3/1 but will now be due by end of the day (11:59pm) on Friday 3/8.
 * Assigned reading for next week: PHS, Chapter 3; Elliott (1994; [link](https://heinonline.org/HOL/Page?handle=hein.journals/crim32&div=8&g_sent=1&casa_token=iqrFf7yotDcAAAAA:xjH1d_VBmp7t2Eme7CprZ4lWBpFElxSJ9O9VzjaFNXHimGoAPHNM1leWzgCmDS3GLVEz0_Tf&collection=journals)).
-* We will also be discussing this work by Cohen (1986):
 
-<p align="center">
-<img src="/gfiles/fig1.png" width="600px">
-</p>
+### Lesson 9 - Tuesday 2/27/24
 
-<p align="center">
-<img src="/gfiles/fig2.png" width="600px">
-</p>
+* I am estimating your exam grades will be finished on Friday. I will post them to ELMS as soon as I can.
+* Reminder: next milestone for your papers has been extended to Friday 3/8 (11:59pm).
+* Continue reading Chapter 3 in your book. I will be going over Elliott (1994) in class today and Thursday.
+* Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson9.pdf)).
