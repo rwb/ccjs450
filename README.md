@@ -190,3 +190,8 @@ Steps to Apply:
 * Reminder: next milestone for your papers has been extended to Friday 3/8 (11:59pm).
 * Continue reading Chapter 3 in your book. I will be going over Elliott (1994) in class today and Thursday.
 * Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson9.pdf)).
+
+### Lesson 10 - Thursday 2/29/24
+
+* Reminder: next milestone for your papers has been extended to Friday 3/8 (11:59pm).
+* Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson10.pdf)).
