@@ -62,11 +62,12 @@ Part 2: System Data and Delinquency Measurement
 * Week 7 - 3/12-3/14: Courts (PHS, chapter 6; Manski and Nagin, 1998).
 * Spring Break: 3/19-3/22
 * Week 8 - 3/26-3/28: Corrections (PHS, chapter 7; Brame et al., 2018);
-* Rough drafts due on Friday 3/31 on ELMS
+* ~~Rough drafts due on Friday 3/31 on ELMS~~
 * Week 9 - 4/2: Catch-up day/exam review; 4/4: Exam 2.
 
 Part 3: Theory and Substantive Research 
 
+* New: Rough drafts due on Monday 4/8 on ELMS
 * Week 10 - 4/9-4/11: Age and crime
 * Week 11 - 4/16-4/18: Peers, gangs, and delinquency
 * Week 12 - 4/23-4/25: Labeling and delinquency
@@ -196,3 +197,9 @@ Steps to Apply:
 * Reminder: next milestone for your papers has been extended to Friday 3/8 (11:59pm).
 * Continue reading Chapter 3 in your book.
 * Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson10.pdf)).
+
+### Lesson 11 - Tuesday 3/5/24
+
+* Reminder: data descriptions due Friday 3/8 on ELMS (11:59pm).
+* Start reading Chapter 5 in your book.
+* Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson11.pdf)).
