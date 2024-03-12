@@ -209,3 +209,9 @@ Steps to Apply:
 * Reminder: data descriptions due Friday 3/8 on ELMS (11:59pm).
 * We are covering Chapter 5 in the book today.
 * Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson12.pdf)).
+
+### Lesson 13 - Tuesday 3/12/24
+
+* I am going through your data descriptions this week and will have comments back to you by the end of the week.
+* We are concluding Chapter 5 today; please read through Chapter 6 for the next couple of classes.
+* Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson13.pdf)).
