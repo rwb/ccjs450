@@ -215,3 +215,8 @@ Steps to Apply:
 * I am going through your data descriptions this week and will have comments back to you by the end of the week.
 * We are concluding Chapter 5 today; please read through Chapter 6 for the next couple of classes.
 * Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson13.pdf)).
+
+### Lesson 14 - Thursday 3/14/24
+
+* We are concluding our discussion of Chapter 6 today; I will also be discussing Manski and Nagin (1998; [link](https://journals.sagepub.com/doi/pdf/10.1111/0081-1750.00043?casa_token=-F8wnZvwab0AAAAA:73e3Q76Vj8WWMw5Gqcf7f6gyBPyam2kB7i5tZYXvgDPk65hCTN-eGuCjRjoh9qjdK4kLLoHUMPxS)).
+* Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson14.pdf)).
