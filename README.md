@@ -220,3 +220,10 @@ Steps to Apply:
 
 * We are concluding our discussion of Chapter 6 today; I will also be discussing Manski and Nagin (1998; [link](https://journals.sagepub.com/doi/pdf/10.1111/0081-1750.00043?casa_token=-F8wnZvwab0AAAAA:73e3Q76Vj8WWMw5Gqcf7f6gyBPyam2kB7i5tZYXvgDPk65hCTN-eGuCjRjoh9qjdK4kLLoHUMPxS)).
 * Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson14.pdf)).
+
+### Lesson 15 - Tuesday 3/26/24
+
+* I will be finishing up Manski and Nagin (1998) today.
+* Next, we will consider the general problem of juvenile recidivism (Brame et al. 2018; [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5945210/pdf/nihms826886.pdf)).
+* Beginning on Thursday, we will focus on the material in Chapter 7 (Corrections).
+* Exam #2 is scheduled for Thursday 4/4/24.
