@@ -224,6 +224,6 @@ Steps to Apply:
 ### Lesson 15 - Tuesday 3/26/24
 
 * I will be finishing up Manski and Nagin (1998) today.
-* Next, we will consider the general problem of juvenile recidivism (Brame et al. 2018; [link]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5945210/pdf/nihms826886.pdf](https://link.springer.com/article/10.1007/s10940-016-9329-2))).
+* Next, we will consider the general problem of juvenile recidivism (Brame et al. 2018; [link](https://link.springer.com/article/10.1007/s10940-016-9329-2)).
 * Beginning on Thursday, we will focus on the material in Chapter 7 (Corrections).
 * Exam #2 is scheduled for Thursday 4/4/24.
