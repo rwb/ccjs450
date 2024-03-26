@@ -227,3 +227,4 @@ Steps to Apply:
 * Next, we will consider the general problem of juvenile recidivism (Brame et al. 2018; [link](https://link.springer.com/article/10.1007/s10940-016-9329-2)).
 * Beginning on Thursday, we will focus on the material in Chapter 7 (Corrections).
 * Exam #2 is scheduled for Thursday 4/4/24.
+* Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson15.pdf)).
