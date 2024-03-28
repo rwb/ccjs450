@@ -21,8 +21,8 @@
 * You will *not* be collecting any new data for this project.
 * You should submit your proposed question to me for approval by end of the day on ELMS on Friday February 16th.
 * You should submit a description of the publicly available data you will use accompanied by a website or link so I can review it; this is due on ELMS by end of the day on Friday March ~~1st~~ 8th.
-* You should submit a rough draft of your project including a fully developed theoretical justification for your question and a description of your data, methods, and findings by end of the day on ~~3/31~~ Monday 4/8.
-* Final drafts are due by end of the day on Friday 4/26; 3 point penalty for each hour the project is late.
+* You should submit a rough draft of your project including a fully developed theoretical justification for your question and a description of your data, methods, and findings by end of the day on ~~3/31~~ Friday 4/12.
+* Final drafts are due by end of the day on ~~Friday 4/26~~ Thursday 5/2; 3 point penalty for each hour the project is late.
 * *Note*: only the final papers are graded. These intermediate reviews will be for giving you comments and guidance to help you develop a high quality project. You should note that late submissions will not be marked -- with the exception of the final graded paper which will be marked down 3 points for every hour the submission is late.
 
 #### Research Project Grading Rubric
@@ -67,7 +67,7 @@ Part 2: System Data and Delinquency Measurement
 
 Part 3: Theory and Substantive Research 
 
-* New: Rough drafts due on Monday 4/8 on ELMS
+* New: Rough drafts due on Friday 4/12 on ELMS
 * Week 10 - 4/9-4/11: Age and crime
 * Week 11 - 4/16-4/18: Peers, gangs, and delinquency
 * Week 12 - 4/23-4/25: Labeling and delinquency
@@ -228,3 +228,12 @@ Steps to Apply:
 * Beginning on Thursday, we will focus on the material in Chapter 7 (Corrections).
 * Exam #2 is scheduled for Thursday 4/4/24.
 * Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson15.pdf)).
+
+### Lesson 16 - Thursday 3/28/24
+
+* General problem of juvenile recidivism (Brame et al. 2018; [link](https://link.springer.com/article/10.1007/s10940-016-9329-2)).
+* Beginning on Thursday, we will focus on the material in Chapter 7 (Corrections).
+* Exam #2 is scheduled for Thursday 4/4/24.
+* Revised due date for rough drafts: Friday 4/12/24.
+* Revised due date for final papers:
+* Today's slides ([pdf link](https://github.com/rwb/ccjs450/blob/main/gfiles/lesson16.pdf)).
